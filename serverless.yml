@@ -1,3 +1,5 @@
+org: ibontgi
+app: my-first-app
 service: serverless-rest-api-with-dynamodb
 
 frameworkVersion: ">=1.1.0"
