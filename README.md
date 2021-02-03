@@ -241,5 +241,5 @@ Esto se puede hacer a través de los ajustes en el `serverless.yml`.
     ReadCapacityUnits: 1
     WriteCapacityUnits: 1
 ```
-
+tets
 En caso de que esperes mucha fluctuación de tráfico, te recomendamos que consultes esta guía sobre cómo escalar automáticamente el DynamoDB [https://aws.amazon.com/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/](https://aws.amazon.com/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/)
